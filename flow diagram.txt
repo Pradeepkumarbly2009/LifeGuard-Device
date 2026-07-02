@@ -1,0 +1,15 @@
+🚗💥 Accident Happens
+      ↓
+📡 Sensor Detects Crash
+      ↓
+📍 GPS Finds Location
+      ↓
+🚨 Emergency Alert Triggered
+      ↓
+🚑 Hospital Gets Alert
+      ↓
+👮 Police Gets Alert
+      ↓
+📱 Family Gets Notification
+      ↓
+❤️ Fast Rescue & Save Lives
