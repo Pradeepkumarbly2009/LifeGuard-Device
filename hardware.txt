@@ -1,0 +1,8 @@
+Hardware Components:
+
+1. GPS Module → For live location tracking
+2. GSM Module → For sending alerts/messages
+3. Crash Sensor → Detect accident impact
+4. Microcontroller (ESP32/Arduino) → Process system logic
+5. Power Supply → Device power source
+6. Buzzer/LED → Emergency signal indication
