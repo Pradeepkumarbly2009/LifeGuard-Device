@@ -30,3 +30,18 @@ Pradeep Kumar
 
 ### Tagline
 Detect Fast • Alert Instantly • Save Lives
+## Problem Statement
+
+Many road accident victims do not receive immediate help, causing loss of lives.
+
+## Solution
+
+LifeGuard Drive automatically detects accidents and sends instant alerts.
+
+## Flow Diagram
+
+🚗💥 → 📡 → 📍 → 🚨 → 🚑 + 👮 + 👨‍👩‍👦 → ❤️
+
+## Estimated Impact
+
+Can reduce emergency response time and improve survival chances.
